@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi!👋🏻 I am a Ph.D. student in the Graduate School of Culture Technology (GSCT)<a href='https://ct.kaist.ac.kr/'> at the Korea Advanced Institute of Science and Technology (KAIST). I am working at Human-Centered Interactive Technologies Lab (HCI Tech Lab)<a href='https://hcitech.org/index.html'>, advised by Professor Sang Ho Yoon<a href='https://sanghoy.com/'>.  My research interests are Human-Computer Interaction(HCI), interaction sensing techniques for AR/VR, and accessibility utilizing the machine learning approach. I am always open to free chat about any interesting ideas!
+Hi!👋🏻 I am a Ph.D. student in the Graduate School of Culture Technology <a href='https://ct.kaist.ac.kr/'>(GSCT)</a> at the Korea Advanced Institute of Science and Technology (KAIST). I am working at Human-Centered Interactive Technologies Lab <a href='https://hcitech.org/index.html'>(HCI Tech Lab)</a>, advised by Professor <a href='https://sanghoy.com/'>Sang Ho Yoon</a>.  
+
+My research interests are Human-Computer Interaction(HCI), interaction sensing techniques for AR/VR, and accessibility utilizing the machine learning approach. I am always open to free chat about any interesting ideas!
 
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 Paper Accepted at CHI 2025! 
 - *2024.03*: &nbsp; Starting Ph.D journey at KAIST HCI Tech Lab
 - *2023.08*: &nbsp;🎉🎉 Paper Accepted at SUI, Poster Accepted at ISMAR 2023! 
-- *2023.05*: &nbsp;🎉🎉 Poster Accepted at IEEE VR 2023🥳 It's my first time presenting my own research at IEEE VR 2023! It was a great time in Shanghai.
+- *2023.05*: &nbsp;🎉🎉 Poster Accepted at IEEE VR 2023🥳 It's my first time presenting my own research at IEEE VR 2023! Great time in Shanghai.
 - *2023.02*: &nbsp; Participated in HCI Korea 2023! I presented my own project 'Co-Gardening' and got a prize🏆
 - *2022.08*: &nbsp;🎉🎉 My first Poster Accepted at UIST 2022!
 - *2022.03*: &nbsp; Starting Master at KAIST HCI Tech Lab
