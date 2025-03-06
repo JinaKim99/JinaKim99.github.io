@@ -39,7 +39,7 @@ My research interests are Human-Computer Interaction(HCI), interaction sensing t
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Jian Kim**, Yang Zhang, Sang Ho Yoon
+**Jina Kim**, Yang Zhang, Sang Ho Yoon
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -52,17 +52,35 @@ My research interests are Human-Computer Interaction(HCI), interaction sensing t
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2024.03 - (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.03 - 2024.02*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2018.03 - 2022.02*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+### 🎓 Ph.D. Candidate in Culture Technology  
+**Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, S.Korea  
+*Human Centered Interactive Technologies Lab*  
+**Advisor:** Prof. Sang Ho Yoon  
+📅 *March 2024 - Present*
+
+---
+
+### 🎓 M.S. in Culture Technology  
+**Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, S.Korea  
+*Human Centered Interactive Technologies Lab*  
+**Advisor:** Prof. Sang Ho Yoon  
+📅 *March 2022 - February 2024*
+
+---
+
+### 🎓 B.S. in [Your Major]  
+**Hanyang University ERICA**, [Ansan, S.Korea]  
+📅 *March 2018 - February 2022*
+*Human-AI Interaction Lab* 
+**Advisor:** Prof. Min Sam Ko  
 
 # 🔍 Teaching Assitant
-- *Fall 2023, 2024* | GCT565 Augmented Humans
-- *Spring 2024* | GCT623 Interaction Sensing Principle & Application
+- *Fall 2023, 2024* GCT565 Augmented Humans, KAIST
+- *Spring 2024* GCT623 Interaction Sensing Principle & Application, KAIST
 
 # ✏ Reviewer
-- *CHI 24, 25*
-- *CHI(LBW)23,24, 25*
+- *CHI 2024, 25*
+- *CHI(LBW) 2023, 24, 25*
 - *CSCW 2023*
-- *AHs 25*
-- *IWMUT 25*
+- *AHs 2025*
+- *IWMUT 2025*
