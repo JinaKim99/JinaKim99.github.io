@@ -54,7 +54,7 @@ My research interests are Human-Computer Interaction(HCI), interaction sensing t
 # 📖 Educations
 ### 🎓 Ph.D. Candidate in Culture Technology  
 **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, S.Korea  
-*Human Centered Interactive Technologies Lab*  
+*Human Centered Interactive Technologies Lab (HCI Tech Lab)*  
 **Advisor:** Prof. Sang Ho Yoon  
 📅 *March 2024 - Present*
 
@@ -62,17 +62,17 @@ My research interests are Human-Computer Interaction(HCI), interaction sensing t
 
 ### 🎓 M.S. in Culture Technology  
 **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, S.Korea  
-*Human Centered Interactive Technologies Lab*  
+*Human Centered Interactive Technologies Lab (HCI Tech Lab)*  
 **Advisor:** Prof. Sang Ho Yoon  
 📅 *March 2022 - February 2024*
 
 ---
 
-### 🎓 B.S. in [Your Major]  
+### 🎓 B.S. in Design Technology  
 **Hanyang University ERICA**, [Ansan, S.Korea]  
 📅 *March 2018 - February 2022*
-*Human-AI Interaction Lab* 
-**Advisor:** Prof. Min Sam Ko  
+*Human-AI Interaction Lab (HAI Lab)*  
+**Advisor:** Prof. MinSam Ko  
 
 # 🔍 Teaching Assitant
 - *Fall 2023, 2024* GCT565 Augmented Humans, KAIST
