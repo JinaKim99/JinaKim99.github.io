@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jina Kim"
-description              : "Jina Kim Personal Hopages "
+description              : "HCI, XR Researcher. Focusing on Novel Input Technique."
 repository               : "Jina Kim99.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jina Kim"
-  avatar           : "images/main.jpg"
+  avatar           : "images/main.JPG"
   bio              : "HCI Tech Lab, KAIST"
   location         : "Daejeon, Korea"
   employer         :
